@@ -11,14 +11,14 @@ def func1(arg1, arg2):
 
     Parameters
     ----------
-    arg1 : int/float
-        The arg is used for ...
-    arg1 : int/float
-        The arg is used for ...
+    arg1 : int, float
+        The arg1 is used for ...
+    arg1 : int, float
+        The arg2 is used for ...
 
     Returns
     -------
-    sum : int/float
+    sum : int, float
         Return the sum of arg1 with arg2.
     """
     
