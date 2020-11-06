@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-package1's documentation!
-====================================
+package1's documentation
+=========================
 
 package1 is a Python-based package that allows you to compute
 the sum of two integer/floats.
